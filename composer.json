@@ -1,5 +1,5 @@
 {
-  "name": "denismitr/denismitr",
+  "name": "denismitr/net-call",
   "description": "Easy to use and mockable HTTP client, wraps most common http calls functionality around Guzzle.",
   "keywords": ["http", "guzzle", "request", "client"],
   "license": "MIT",

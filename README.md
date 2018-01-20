@@ -19,7 +19,7 @@ $response = NetCall::new()->get('http://www.google.com?foo=bar');
 // NetCallResponseInterface methods
 $response->body(); // : string
 $response->json(); // : array
-$response->header('some-key);
+$response->header('some-key');
 $response->headers(); // : array
 $response->status(); // : int
 $response->isSuccess(); // : bool
